@@ -1,0 +1,206 @@
+{
+    "ABH": {
+        "nom": "Able de Heckel",
+        "cd_nom": 67286
+    },
+    "ABL": {
+        "nom": "Ablette",
+        "cd_nom": 67111
+    },
+    "ANG": {
+        "nom": "Anguille",
+        "cd_nom": 66832
+    },
+    "APP": {
+        "nom": "Ecrevisse a pieds blancs",
+        "cd_nom": 18437
+    },
+    "ASL": {
+        "nom": "Ecrevisse a pieds gr\u00eales",
+        "cd_nom": 162666
+    },
+    "BAF": {
+        "nom": "Barbeau fluviatile",
+        "cd_nom": 67143
+    },
+    "BOU": {
+        "nom": "Bouvi\u00e8re",
+        "cd_nom": 67420
+    },
+    "BRB": {
+        "nom": "Br\u00e8me borderli\u00e8re",
+        "cd_nom": 67203
+    },
+    "BRE": {
+        "nom": "Br\u00e8me commune",
+        "cd_nom": 67074
+    },
+    "BRO": {
+        "nom": "Brochet",
+        "cd_nom": 67606
+    },
+    "CAS": {
+        "nom": "Carassin",
+        "cd_nom": 67206
+    },
+    "CCO": {
+        "nom": "Carpe commune",
+        "cd_nom": 67058
+    },
+    "CHA": {
+        "nom": "Chabot",
+        "cd_nom": 69182
+    },
+    "CHE": {
+        "nom": "Chevaine",
+        "cd_nom": 67310
+    },
+    "CMI": {
+        "nom": "Carpe miroir",
+        "cd_nom": 426015
+    },
+    "CYP": {
+        "nom": "Juv cyprinidae",
+        "cd_nom": 185760
+    },
+    "EPI": {
+        "nom": "\u00c9pinoche",
+        "cd_nom": 69010
+    },
+    "EPT": {
+        "nom": "\u00c9pinochette",
+        "cd_nom": 69016
+    },
+    "FLE": {
+        "nom": "Flet",
+        "cd_nom": 70554
+    },
+    "GAR": {
+        "nom": "Gardon",
+        "cd_nom": 67422
+    },
+    "GOU": {
+        "nom": "Goujon",
+        "cd_nom": 67257
+    },
+    "GRE": {
+        "nom": "Gr\u00e9mille",
+        "cd_nom": 69354
+    },
+    "HOT": {
+        "nom": "Hotu",
+        "cd_nom": 67220
+    },
+    "IDE": {
+        "nom": "Ide m\u00e9lanote",
+        "cd_nom": 67304
+    },
+    "LOF": {
+        "nom": "Loche franche",
+        "cd_nom": 67550
+    },
+    "LOR": {
+        "nom": "Loche de rivi\u00e8re",
+        "cd_nom": 67506
+    },
+    "LOT": {
+        "nom": "Lote de rivi\u00e8re",
+        "cd_nom": 68336
+    },
+    "LPM": {
+        "nom": "Lamproie marine",
+        "cd_nom": 66315
+    },
+    "LPP": {
+        "nom": "Lamproie de planer",
+        "cd_nom": 66333
+    },
+    "LPX": {
+        "nom": "Lamproie ind\u00e9termin\u00e9e",
+        "cd_nom": 196011
+    },
+    "MUP": {
+        "nom": "Mulet porc",
+        "cd_nom": 69790
+    },
+    "OBR": {
+        "nom": "Ombre commun",
+        "cd_nom": 67759
+    },
+    "OCL": {
+        "nom": "\u00c9crevisse am\u00e9ricaine",
+        "cd_nom": 17646
+    },
+    "PCH": {
+        "nom": "Poisson-chat",
+        "cd_nom": 67571
+    },
+    "PER": {
+        "nom": "Perche",
+        "cd_nom": 69350
+    },
+    "PES": {
+        "nom": "Perche soleil",
+        "cd_nom": 69338
+    },
+    "PFL": {
+        "nom": "\u00c9crevisse signal",
+        "cd_nom": 162667
+    },
+    "PSR": {
+        "nom": "Pseudorasbora",
+        "cd_nom": 67415
+    },
+    "ROT": {
+        "nom": "Rotengle",
+        "cd_nom": 67466
+    },
+    "SAN": {
+        "nom": "Sandre",
+        "cd_nom": 69372
+    },
+    "SAT": {
+        "nom": "Saumon atlantique",
+        "cd_nom": 67765
+    },
+    "SDF": {
+        "nom": "Saumon de fontaine",
+        "cd_nom": 67817
+    },
+    "SIL": {
+        "nom": "Silure glane",
+        "cd_nom": 67585
+    },
+    "SPI": {
+        "nom": "Spirlin",
+        "cd_nom": 67104
+    },
+    "TAC": {
+        "nom": "Truite arc-en-ciel",
+        "cd_nom": 67804
+    },
+    "TAN": {
+        "nom": "Tanche",
+        "cd_nom": 67478
+    },
+    "TRF": {
+        "nom": "Truite de rivi\u00e8re",
+        "cd_nom": 67778
+    },
+    "TRM": {
+        "nom": "Truite de mer",
+        "cd_nom": 67774
+    },
+    "VAI": {
+        "nom": "Vairon",
+        "cd_nom": 67404
+    },
+    "VAN": {
+        "nom": "Vandoise",
+        "cd_nom": 67295
+    },
+    "VAR": {
+        "nom": "Vandoise rostr\u00e9e",
+        "cd_nom": 67292
+    }
+}
