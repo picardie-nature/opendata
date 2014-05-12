@@ -202,5 +202,9 @@
     "VAR": {
         "nom": "Vandoise rostr\u00e9e",
         "cd_nom": 67292
+    },
+    "LPR": {
+        "nom": "Lamproie de rivi\u00e8re",
+        "cd_nom": 66330
     }
 }
