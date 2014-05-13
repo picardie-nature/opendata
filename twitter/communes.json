@@ -1,11 +1,12 @@
 [
-	{"nom": "Clermont",	"insee": 60157,	"twitter": "VilleClermont60"},
-	{"nom": "Noyon",	"insee": 60471, "twitter": "Ville2Noyon"},
-	{"nom": "Crépy-en-Valois", "insee": 60176, "twitter": "MairieCrepy"},
-	{"nom": "Beauvais",	"insee": 60057, "twitter": "villedebeauvais"},
-	{"nom": "Bresles",	"insee": 60103, "twitter": "VilledeBresles"},
-	{"nom": "Cuigy-en-Bray","insee": 60187,	"twitter": "Cuigyenbray"},
-	{"nom": "Compiègne",	"insee": 60159, "twitter": "mairiecompiegne"},
-	{"nom": "Chambly",	"insee": 60139, "twitter": "villedechambly"},
-	{"nom": "Saint-Quentin","insee": 02691, "twitter": "a_saint_quentin"},
+	{"nom": "Clermont",	"insee": "60157",	"twitter": "VilleClermont60"},
+	{"nom": "Noyon",	"insee": "60471",	"twitter": "Ville2Noyon"},
+	{"nom": "Crépy-en-Valois", "insee": "60176",	"twitter": "MairieCrepy"},
+	{"nom": "Beauvais",	"insee": "60057",	"twitter": "villedebeauvais"},
+	{"nom": "Bresles",	"insee": "60103",	"twitter": "VilledeBresles"},
+	{"nom": "Cuigy-en-Bray","insee": "60187",	"twitter": "Cuigyenbray"},
+	{"nom": "Compiègne",	"insee": "60159",	"twitter": "mairiecompiegne"},
+	{"nom": "Chambly",	"insee": "60139",	"twitter": "villedechambly"},
+	{"nom": "Saint-Quentin","insee": "02691",	"twitter": "a_saint_quentin"},
+	{"nom": "Acy",		"insee": "02003",	"twitter": "Acy_Info"}
 ]
