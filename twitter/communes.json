@@ -8,5 +8,6 @@
 	{"nom": "Compiègne",	"insee": "60159",	"twitter": "mairiecompiegne"},
 	{"nom": "Chambly",	"insee": "60139",	"twitter": "villedechambly"},
 	{"nom": "Saint-Quentin","insee": "02691",	"twitter": "a_saint_quentin"},
-	{"nom": "Acy",		"insee": "02003",	"twitter": "Acy_Info"}
+	{"nom": "Acy",		"insee": "02003",	"twitter": "Acy_Info"},
+	{"nom": "Margny-lès-Compiègne", "insee": "60382","twitter": "MargnyCom"}
 ]
